@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=JetBrains+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: Arial, Helvetica, sans-serif;
+  --font-heading: "Poppins", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+  --color-brand-navy: #0b164f;
+  --color-brand-navy-light: #232d65;
+  --color-brand-red: #bb0014;
+  --color-brand-red-bright: #e41f25;
+  --color-brand-bg: #fbf9f8;
+  --color-brand-bg-dark: #0a0d1a;
+  --color-brand-text: #1b1c1c;
+  --color-brand-text-muted: #454650;
+  --color-brand-border: rgba(11, 22, 79, 0.1);
+  --color-brand-border-muted: rgba(11, 22, 79, 0.05);
+
+  --radius-brand-sm: 0.125rem;
+  --radius-brand-md: 0.25rem;
+  --radius-brand-lg: 0.5rem;
+  --radius-brand-xl: 0.75rem;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-brand-bg);
+  color: var(--color-brand-text);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, .font-heading {
+  font-family: var(--font-heading) !important;
+}
+
+/* Custom scrollbar for premium feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-brand-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(11, 22, 79, 0.2);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(11, 22, 79, 0.4);
+}
