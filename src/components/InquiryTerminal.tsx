@@ -118,7 +118,7 @@ export default function InquiryTerminal() {
                     Get In Touch
                   </h3>
                   <p className="font-sans text-brand-bg/70 text-base">
-                    Securely initialize your infrastructure journey with Oxus International.
+                    Securely initialize your infrastructure journey with Oxus.
                   </p>
                 </div>
 
