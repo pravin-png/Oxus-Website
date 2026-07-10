@@ -37,7 +37,7 @@ export default function Hero({ onExploreClick }: HeroProps) {
 
           {/* Body Copy */}
           <p className="font-sans text-lg sm:text-xl text-brand-text-muted leading-relaxed mb-10 max-w-2xl">
-            Oxus International bridges the gap between global enterprise standards and world-class technical talent. 
+            Oxus bridges the gap between global enterprise standards and world-class technical talent. 
             We engineer resilient infrastructure ecosystems that empower your business to scale without borders.
           </p>
 
