@@ -173,10 +173,10 @@ export default function Footer({ onPrivacyClick }: FooterProps) {
           {/* Right Column - Brand Statement & Copyright */}
           <div className="md:col-span-4 flex flex-col md:items-end md:text-right justify-between gap-6">
             <p className="font-sans text-sm text-brand-text-muted leading-relaxed max-w-sm">
-              Oxus International bridges the gap between global enterprise standards and world-class technical talent.
+              Oxus bridges the gap between global enterprise standards and world-class technical talent.
             </p>
             <div className="font-sans text-xs text-brand-text-muted/65 leading-relaxed">
-              <p>© 2026 Oxus International. All rights reserved.</p>
+              <p>© 2026 Oxus International Pte. Ltd. All rights reserved.</p>
               <p className="mt-1">Precision in Enterprise Infrastructure. Singapore Global Headquarters.</p>
             </div>
           </div>
