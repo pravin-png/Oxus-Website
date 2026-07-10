@@ -145,11 +145,11 @@ export default function TechIntegration({ onLearnMoreClick }: TechIntegrationPro
               </div>
               {/* Title */}
               <h4 className="font-sans text-xl font-bold mb-3 tracking-wide text-white">
-                Authorized Ecosystems
+                Reliability
               </h4>
               {/* Description */}
               <p className="font-sans text-white/85 text-sm leading-relaxed">
-                Official partnerships with Cisco, HPE, Dell, and Snom to ensure vendor-aligned deployment standards and enterprise durability.
+                Our secure, enterprise-grade support delivers the rapid responsiveness your business demands to stay resilient.
               </p>
             </div>
           </motion.div>
