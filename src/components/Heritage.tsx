@@ -31,10 +31,7 @@ export default function Heritage() {
           {/* Body Narrative */}
           <div className="font-sans text-base sm:text-lg text-brand-text-muted space-y-6 mb-10 leading-relaxed">
             <p>
-              Headquartered in the heart of Singapore, Oxus was founded on the principle that
-              enterprise-grade infrastructure should be accessible, resilient, and human-centric. We serve as the
-              critical link between sophisticated global technology standards and the specialized technical talent
-              required to execute them.
+              Oxus was founded on the principle that enterprise-grade infrastructure should be accessible, resilient, and human-centric. Based in Singapore, we serve as the critical link between sophisticated global technology standards and the specialized technical talent required to execute them.
             </p>
             <p>
               Our mission is to empower organizations to scale without borders by engineering ecosystems that are not
@@ -46,8 +43,8 @@ export default function Heritage() {
           {/* Stats / HQ Info Block */}
           <div className="grid grid-cols-2 gap-8 border-t border-brand-border/20 pt-8 w-full max-w-md">
             <div>
-              <p className="font-mono text-xs text-brand-red uppercase tracking-widest mb-1">HQ</p>
-              <p className="font-sans text-xl font-bold text-brand-navy tracking-tight">SINGAPORE</p>
+              <p className="font-mono text-xs text-brand-red uppercase tracking-widest mb-1">EXPERT</p>
+              <p className="font-sans text-xl font-bold text-brand-navy tracking-tight">SOLUTIONS</p>
             </div>
             <div>
               <p className="font-mono text-xs text-brand-red uppercase tracking-widest mb-1">Global</p>
