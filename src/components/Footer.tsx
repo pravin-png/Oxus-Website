@@ -177,7 +177,7 @@ export default function Footer({ onPrivacyClick }: FooterProps) {
             </p>
             <div className="font-sans text-xs text-brand-text-muted/65 leading-relaxed">
               <p>© 2026 Oxus International Pte. Ltd. All rights reserved.</p>
-              <p className="mt-1">Precision in Enterprise Infrastructure. Singapore Global Headquarters.</p>
+              
             </div>
           </div>
 
