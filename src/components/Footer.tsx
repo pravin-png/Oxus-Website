@@ -129,9 +129,9 @@ export default function Footer({ onPrivacyClick }: FooterProps) {
               Corporate HQ
             </h5>
             <p className="font-sans text-brand-text-muted text-sm leading-relaxed mb-4 max-w-sm">
-              60 Paya Lebar Road,<br />
-              #06-28 Paya Lebar Square,<br />
-              Singapore 409051
+              7030 Ang Mo Kio Avenue 5<br />
+              #09-46, Northstar @ AMK<br />
+              Singapore 569880
             </p>
             <div className="font-sans text-xs text-brand-text-muted space-y-2 mt-2">
               <p>
