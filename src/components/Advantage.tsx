@@ -16,7 +16,7 @@ export default function Advantage() {
     {
       icon: <Building2 size={32} className="text-brand-navy" />,
       title: "Singapore-Backed",
-      description: "Headquartered in Singapore, we operate under strict global standards of compliance, governance, and professional accountability.",
+      description: "Based in Singapore, we operate under strict global standards of compliance, governance, and professional accountability.",
     },
     {
       icon: <ShieldCheck size={32} className="text-brand-navy" />,
