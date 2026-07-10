@@ -31,7 +31,7 @@ export default function Heritage() {
           {/* Body Narrative */}
           <div className="font-sans text-base sm:text-lg text-brand-text-muted space-y-6 mb-10 leading-relaxed">
             <p>
-              Headquartered in the heart of Singapore, Oxus International was founded on the principle that
+              Headquartered in the heart of Singapore, Oxus was founded on the principle that
               enterprise-grade infrastructure should be accessible, resilient, and human-centric. We serve as the
               critical link between sophisticated global technology standards and the specialized technical talent
               required to execute them.
